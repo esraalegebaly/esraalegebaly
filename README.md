@@ -2,22 +2,35 @@
 <h3 align="center">Data Scientist | Computational Neuroscience Enthusiast</h3>
 
 ---
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 🧠 About Me
 
-I’m a **Data Scientist** passionate about uncovering insights hidden within data, transforming complex information into meaningful, actionable knowledge.  
+I’m a **Data Scientist** passionate about uncovering insights hidden within data — transforming complex information into meaningful, actionable knowledge.  
 My current focus lies in exploring how the brain learns and adapts, using **computational modeling** and **data-driven neuroscience** to study learning mechanisms and neural dynamics.
 
 My research interests include **neural manifolds**, **recurrent neural networks (RNNs)**, and **feedback-based motor learning**, inspired by works such as *Feulner & Clopath (2021)* and *Nature Communications (2024)*.  
 Ultimately, I aim to bridge **data science** and **neuroscience** — developing models that explain how learning and adaptation emerge in biological and artificial systems.
 
-- 🔭 Building: **data-driven and neuroscience-inspired projects**
-- 🌱 Learning: **Deep Learning, Neural Manifold Theory, and Computational Modeling**
-- 👯 Open to: **neuroscience collaborations, data analysis, and open-source projects**
-- 💬 Ask me about: **Python, data analysis, visualization, and neural modeling**
-- 📫 Reach me at: **esraalegebaly@gmail.com**
-- ⚡ Fun fact: I spot patterns everywhere,  in brain signals, coffee routines, and my fox’s curious habits 🦊
+- 🔭 Building: **data-driven and neuroscience-inspired projects**  
+- 🌱 Learning: **Deep Learning, Neural Manifold Theory, and Computational Modeling**  
+- 👯 Open to: **neuroscience collaborations, data analysis, and open-source projects**  
+- 💬 Ask me about: **Python, data analysis, visualization, and neural modeling**  
+- 📫 Reach me at: **esraalegebaly@gmail.com**  
+- ⚡ Fun fact: **I find patterns in everything — from brain data to coffee habits ☕ and my fox companion 🦊.**
 
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/esraalegebaly/esraalegebaly/main/cab7a206-9d24-4f94-8ddd-dff1aa5bcf69.png"
+     alt="Esraa Elgebaly working on data science and neuroscience illustration"
+     width="90%" style="border-radius:12px;"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
