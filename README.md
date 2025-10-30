@@ -19,7 +19,7 @@ Ultimately, I aim to bridge **data science** and **neuroscience** — developing
 - 👯 Open to: **neuroscience collaborations, data analysis, and open-source projects**  
 - 💬 Ask me about: **Python, data analysis, visualization, and neural modeling**  
 - 📫 Reach me at: **esraalegebaly@gmail.com**  
-- ⚡ Fun fact: **I find patterns in everything — from brain data to coffee habits ☕ and my fox companion 🦊.**
+-⚡ Fun fact: I love spotting patterns, in brain signals, coffee habits ☕, and even in my favorite animal, the fox 🦊.
 
 </td>
 <td width="40%" align="center" valign="middle">
