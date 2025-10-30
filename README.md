@@ -63,7 +63,7 @@ Ultimately, I aim to bridge **data science** and **neuroscience** — developing
 
 ### 🧩 Neuroscience Focus
 
-🧬 My work explores how neural activity changes during learning — using computational models to understand **adaptation**, **feedback**, and **plasticity**.  
+🧬 My work explores how neural activity changes during learning, using computational models to understand **adaptation**, **feedback**, and **plasticity**.  
 🔬 I study **neural manifold dynamics** in **RNNs** to analyze how learning reorganizes network representations.  
 📚 By combining design, data science, and neuroscience, I strive to make complex research more **intuitive and visually insightful**.  
 💡 I believe that bridging analytical precision with creative visualization is key to understanding the brain.
