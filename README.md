@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-I’m a **Data Scientist** passionate about uncovering insights hidden within data — transforming complex information into meaningful, actionable knowledge.  
+I’m a **Data Scientist** passionate about uncovering insights hidden within data, transforming complex information into meaningful, actionable knowledge.  
 My current focus lies in exploring how the brain learns and adapts, using **computational modeling** and **data-driven neuroscience** to study learning mechanisms and neural dynamics.
 
 My research interests include **neural manifolds**, **recurrent neural networks (RNNs)**, and **feedback-based motor learning**, inspired by works such as *Feulner & Clopath (2021)* and *Nature Communications (2024)*.  
