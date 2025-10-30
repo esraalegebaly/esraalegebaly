@@ -24,10 +24,6 @@ Ultimately, I aim to bridge **data science** and **neuroscience** — developing
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/esraalegebaly/esraalegebaly/main/cab7a206-9d24-4f94-8ddd-dff1aa5bcf69.png"
-     alt="Esraa Elgebaly working on data science and neuroscience illustration"
-     width="90%" style="border-radius:12px;"/>
-
 </td>
 </tr>
 </table>
