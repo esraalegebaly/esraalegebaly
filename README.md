@@ -21,8 +21,6 @@ Ultimately, I aim to bridge **data science** and **neuroscience** — developing
 - 📫 Reach me at: **esraalegebaly@gmail.com**  
 - ⚡ Fun fact: **I find patterns in everything, from brain data to coffee rituals ☕, and I’ve always had a soft spot for foxes 🦊.**
 
-</td>
-<td width="40%" align="center" valign="middle">
 
 </td>
 </tr>
