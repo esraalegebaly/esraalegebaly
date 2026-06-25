@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-I am a computer science graduate and data scientist with a strong focus on computational neuroscience. I work with data and machine learning to understand learning, adaptation, and internal representations in complex systems, with a growing emphasis on biologically grounded models of the brain.
+Data scientist with a strong focus on computational neuroscience. I work with data and machine learning to understand learning, adaptation, and internal representations in complex systems, with a growing emphasis on biologically grounded models of the brain.
 
 My interests lie in studying how neural systems learn and reorganize over time using computational tools. I am particularly interested in neural population dynamics, neural manifolds, recurrent neural networks (RNNs), and feedback-based learning mechanisms. My work is inspired by computational frameworks such as Feulner & Clopath (2021) and recent models of biologically plausible motor learning (Nature Communications, 2024).
 
