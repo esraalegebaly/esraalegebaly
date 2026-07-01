@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esraa Elgebaly</h1>
-<h3 align="center">Computational Neuroscience</h3>
+<h3 align="center">Data scientist</h3>
 
 ---
 
